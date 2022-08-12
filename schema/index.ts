@@ -1,5 +1,5 @@
 import apiSchema from './schema'
-import query from './query'
+import query from './queryResolver'
 import mutation from './mutation'
 
 const resolvers = {
